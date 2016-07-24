@@ -5,8 +5,7 @@
 #include<iomanip>
 using namespace std;
 
-int main()
-{
+int main() {
 
 float a,b,c,x;
 cin>> a >> b >> c;
@@ -15,10 +14,10 @@ if(c-b == 0) {
 	cout << "NWR"; 
 	return 0;
 	}
-if(a == 0) 
+if(a == 0) {
 	cout << "BR"; 
 	return 0;
-	}
+}
 x = ( c - b ) / a;
 cout << x;
 return 0;
