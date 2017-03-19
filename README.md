@@ -1,1 +1,1 @@
-# first steps in programming c++ (2014)
+# solving of polish SPOJ tests c++
